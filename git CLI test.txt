@@ -1,0 +1,14 @@
+Administrator@DESKTOP-HUJUVSS MINGW64 /d/iclass0419/sample
+$ git init
+Initialized empty Git repository in D:/iclass0419/sample/.git/
+
+Administrator@DESKTOP-HUJUVSS MINGW64 /d/iclass0419/sample (master)
+$ git config --global user.email
+astaldo1993@gmail.com
+
+Administrator@DESKTOP-HUJUVSS MINGW64 /d/iclass0419/sample (master)
+$ git config --global user.name
+bi1106
+
+Administrator@DESKTOP-HUJUVSS MINGW64 /d/iclass0419/sample (master)
+$
